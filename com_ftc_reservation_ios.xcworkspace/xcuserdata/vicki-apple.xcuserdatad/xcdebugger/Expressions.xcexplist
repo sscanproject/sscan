@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HExceptedViewController.callSearchByMKApi():HExceptedViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HActualViewController.tableView(_:numberOfRowsInSection:):HActualViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "members.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HExceptedViewController.viewDidLoad():HExceptedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView_excepted">
+            </PersistentString>
+            <PersistentString
+               value = "actxuid">
+            </PersistentString>
+            <PersistentString
+               value = "userDefaults.string(forKey: &quot;actxuid&quot;)!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HSummaryViewController.viewWillAppear(_:):HSummaryViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomePageViewController.indexChanged(_:):HomePageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "actxuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HActualViewController.viewDidAppear(_:):HActualViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.actxuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HSearchViewController.searchBarSearchButtonClicked(_:):HSearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchController.searchBar">
+            </PersistentString>
+            <PersistentString
+               value = "searchBar.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.searchController.searchBar.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HExceptedViewController.callSearchByMKApi(actxuid:):HExceptedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "members">
+            </PersistentString>
+            <PersistentString
+               value = "codeResult.message">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

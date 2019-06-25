@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HActualViewController.viewWillAppear(_:):HActualViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "members.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.actxuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HActualViewController.viewDidLoad():HActualViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userDefaults.string(forKey: &quot;actxuid&quot;)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HMemberDetailController.tapFunction(sender:):HMemberDetailController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mbtel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HActualViewController.viewDidAppear(_:):HActualViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "members.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
