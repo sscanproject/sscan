@@ -202,3 +202,12 @@ struct M_Logout : Decodable {
     }
 }
 
+struct M_L123 : Decodable {
+    var code : Int
+    var message: String
+    
+    init(code: Int, message: String) {
+        self.code = code
+        self.message = message
+    }
+}
